@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivansh
-- 👀 I’m interested in developnig full stack applications
+- 👀 I’m interested in developing full stack applications
 - 🌱 I’m currently learning everything :)
 - 💞️ I’m looking to contribute more on open source projects
 
